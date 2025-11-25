@@ -16,7 +16,7 @@ You should see something like: `Docker Compose version ?.?.?`
 
 ## How to run
 - In your terminal, run the command `docker compose -f <path_to_compose_file> up -d --build`  
-Replace "<path_to_compose_file>" with the path to the "docker-compose.yml" file
+Replace `<path_to_compose_file>` with the path to the `docker-compose.yml` file
 - Wait about a minute for it to kick up
 - That's it! Access your local Unbound-Cloud at http://localhost:3000
 
@@ -24,7 +24,7 @@ Replace "<path_to_compose_file>" with the path to the "docker-compose.yml" file
 
 ## How to turn off
 - In your terminal, run the command `docker compose -f <path_to_compose_file> down`  
-Replace "<path_to_compose_file>" with the path to the "docker-compose.yml" file
+Replace `<path_to_compose_file>` with the path to the `docker-compose.yml` file
 
 ## Credits
 This would, of course, not be possible without the OG repo: https://github.com/Skeli789/Unbound-Cloud
