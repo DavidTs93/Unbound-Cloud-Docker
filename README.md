@@ -10,7 +10,8 @@ This runs on your local machine at http://localhost:3000 and uses the ports 3000
 - Install Docker compose
   - Windows: comes with Docker Desktop
   - Linux: https://docs.docker.com/compose/install/linux/#install-using-the-repository
-- Open your terminal and run `docker compose version` to make sure everything is ready
+- Open your terminal and run `docker compose version` to make sure everything is ready  
+You should see something like: `Docker Compose version ?.?.?`
 - Download the 2 files in this repo and place them together (important!) in some folder, or clone the repo
 
 ## How to run
