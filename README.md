@@ -20,5 +20,5 @@ Replace "<path_to_compose_file>" with the path to the "docker-compose.yml" file
 - That's it! Access your local Unbound-Cloud at http://localhost:3000
 
 ### How to turn off
-- In your terminal, run the command `docker compose -f <path_to_compose_file> down`
+- In your terminal, run the command `docker compose -f <path_to_compose_file> down`  
 Replace "<path_to_compose_file>" with the path to the "docker-compose.yml" file
