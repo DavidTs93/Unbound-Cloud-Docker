@@ -3,6 +3,8 @@ Run a private Unbound-Cloud via Docker
 
 This runs on your local machine at http://localhost:3000 and uses the ports 3000-3001, 3005, 5000
 
+<ins>Note:</ins> this does NOT link to the official Unbound cloud storage - it saves all the information on your own device!
+
 ## Setup
 - Install Docker
   - Windows: https://docs.docker.com/desktop/setup/install/windows-install/
